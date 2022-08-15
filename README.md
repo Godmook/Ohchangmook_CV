@@ -20,11 +20,11 @@
 
 ---
 ### 📕 Research Interests
-
+#### HCI 에 관심 있는데 좀 써야지...
 ---
 
 ### 📗 Research Experience
-
+#### Intern for ML (1학년 겨울방학)
 ---
 ### 📘 Teaching Experience
 #### Tutor, Sejong University, Republic of Korea (03.2021~06.2022)
@@ -45,18 +45,23 @@
 ---
 
 ### Extra-curricular activities
-
+#### 비교과 활동도 여기에 포함되나? 이걸 잘 모르겠네 비교과 활동도 있다고 하면 창의나눔공동체 활동 추가하면 될듯함.
 ---
 ### Publications
-
+#### 뭐 출판한게 있어야지
 ---
 ### Projectes
 #### GetEatWithMe, Sejong University, Republic of Korea (03.2022~06.2022)
 - worked for Backend development(Using Spring boot) (2022.3 ~ 2022.06)
+#### 2학기 캡스톤, 2학기 창의학기제 추가해야함.
+#### 소설기 추가해야함(이건 추가하는게 맞는지 잘 모르겠네)
+#### 여름방학동안 진행한 JPA 프로젝트 추가해야함
 ---
 
 ### Awards & Honors
 #### Student President,Department of Software, Sejong University, Republic of Korea (12.2021~11.2022)
 #### First Prize for Best Tutor, Sejong University, Republic of Korea (2021.06)
 #### Third Prize for Extracurricular Activities, Sejong University, Republic of Korea (2022.01)
+#### 성적 장학금 받은거 (1등) 도 추가해야함
+#### 창의공동체 수상(장려상) 도 추가해야함
 ---
