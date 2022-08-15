@@ -51,9 +51,12 @@
 
 ---
 ### Projectes
-
+#### GetEatWithMe, Sejong University, Republic of Korea (03.2022~06.2022)
+- worked for Backend development(Using Spring boot) (2022.3 ~ 2022.06)
 ---
 
 ### Awards & Honors
-
+#### Student President,Department of Software, Sejong University, Republic of Korea (12.2021~11.2022)
+#### First Prize for Best Tutor, Sejong University, Republic of Korea (2021.06)
+#### Third Prize for Extracurricular Activities, Sejong University, Republic of Korea (2022.01)
 ---
