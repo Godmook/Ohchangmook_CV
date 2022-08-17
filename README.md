@@ -20,7 +20,7 @@
 
 ---
 ### 📕 Research Interests
-#### HCI 에 관심 있는데 좀 써야지...
+
 ---
 
 ### 📗 Research Experience
