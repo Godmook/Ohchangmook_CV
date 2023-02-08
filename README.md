@@ -49,15 +49,20 @@
 ### Projectes
 #### GetEatWithMe, Sejong University, Republic of Korea (03.2022~06.2022)
 - worked for Backend development(Using Spring boot) (2022.3 ~ 2022.06)
-#### 2학기 캡스톤, 2학기 창의학기제 추가해야함.
+#### Lincall, Sejong University, Republic of Korea (09.2022~12.2022)
+- worked for Frontend development(Using React) (2022.9 ~ 2022.12)
+#### Computer Recommend System, Sejong University, Republic of Korea (09.2022~12.2022)
+- worked for Backend development(Using Spring boot, mariaDB, AWS, Flask) (2022.9 ~ 2022.12)
 #### 소설기 추가해야함(이건 추가하는게 맞는지 잘 모르겠네)
 #### 여름방학동안 진행한 JPA 프로젝트 추가해야함
 ---
 
 ### Awards & Honors
-#### Student President,Department of Software, Sejong University, Republic of Korea (12.2021~11.2022)
 #### First Prize for Best Tutor, Sejong University, Republic of Korea (2021.06)
+#### Fourth Prize for Creative Learning Community, Sejong University, Republic of Korea(2021.06)
+#### Student President,Department of Software, Sejong University, Republic of Korea (12.2021~11.2022)
 #### Third Prize for Extracurricular Activities, Sejong University, Republic of Korea (2022.01)
-#### 성적 장학금 받은거 (1등) 도 추가해야함
-#### 창의공동체 수상(장려상) 도 추가해야함
+#### Silver Prize for Creative Design Contest, Sejong University, Republic of Korea (2022.12)
+#### Fourth Prize for Extracurricular Activities, Sejong University, Republic of Korea (2023.01)
+
 ---
