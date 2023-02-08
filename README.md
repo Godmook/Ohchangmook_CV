@@ -58,6 +58,7 @@
 ### Awards & Honors
 #### First Prize for Best Tutor, Sejong University, Republic of Korea (2021.06)
 #### Fourth Prize for Creative Learning Community, Sejong University, Republic of Korea(2021.06)
+#### Fourth Prize for Coding Contest, Sejong University, Republic of Korea(2021.12)
 #### Student President,Department of Software, Sejong University, Republic of Korea (12.2021~11.2022)
 #### Third Prize for Extracurricular Activities, Sejong University, Republic of Korea (2022.01)
 #### Honors Scholarship(First rank), Sejong University, Republic of Korea (2022.02)
